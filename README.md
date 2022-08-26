@@ -21,7 +21,6 @@ Atualmente em formação **Fullstack** pelo bootcamp da Labenu, onde estou desen
 
 ## 📫 Contatos
 
-[![Twitch Badge](https://img.shields.io/badge/@carlosaaraujo-2D425E?style=flat&labelColor=2D425E&logo=twitch&logoColor=white&link=https://twitch.com/c4rlosaaraujo)](https://twitch.com/c4rlosaaraujo)
 [![Twitter Badge](https://img.shields.io/badge/@carlosaaraujo-2D425E?style=flat&labelColor=2D425E&logo=twitter&logoColor=white&link=https://twitter.com/c4rlosaaraujo)](https://twitter.com/c4rlosaaraujo)
 [![Instagram Badge](https://img.shields.io/badge/@carlosaaraujo-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/c4rlosaaraujo)](https://instagram.com/c4rlosaaraujo)
 [![Linkedin Badge](https://img.shields.io/badge/Carlos%20Araújo-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosaaraujo/)](https://www.linkedin.com/in/carlosaaraujo/)
