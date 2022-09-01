@@ -2,10 +2,9 @@
 
 <img align="right" src="https://i.imgur.com/KKOhgiT.png" width="300"/>
 
-Me chamo Carlos Araújo, tenho 22 anos, moro em Recife-PE, sou desenvolvedor **Frontend** em formação.
+Me chamo Carlos Araújo, tenho 22 anos, sou desenvolvedor **front-end** em constante aprendizado.
 
-Atualmente em formação **Fullstack** pelo bootcamp da Labenu, onde estou desenvolvendo projetos, utilizando as ferramentas **HTML**, **CSS**, **JavaScript** e **React** que estão me ajudando a construir uma base de aprendizado em projetos reais. Também tenho experiência com GIT, GitHub, Metodologias Ágeis, UI/UX.
-
+Meu contato com tecnologia veio através de jogos, mas sempre tive muita curiosidade em relação ao mundo da programação e como tudo aquilo funcionava, decidi mergulhar de cabeça no desenvolvimento web e conheci a área do front-end, no qual eu, felizmente, posso conciliar minhas duas paixões: **desenvolvimento web e design gráfico.**
 
 ## 📋 Skills
 [![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white&style=plastic)]()
