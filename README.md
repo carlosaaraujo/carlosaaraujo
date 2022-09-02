@@ -4,9 +4,10 @@
 
 Me chamo Carlos Araújo, tenho 22 anos, sou desenvolvedor **front-end** em constante aprendizado.
 
-Meu contato com tecnologia veio através de jogos, mas sempre tive muita curiosidade em relação ao mundo da programação e como tudo aquilo funcionava, decidi mergulhar de cabeça no desenvolvimento web e conheci a área do front-end, no qual eu, felizmente, posso conciliar minhas duas paixões: **desenvolvimento web e design gráfico.**
+Meu contato com tecnologia veio através dos jogos, porém sempre tive curiosidade em relação ao mundo da programação e como tudo aquilo funcionava, decidi então mergulhar de cabeça no desenvolvimento front-end. 
 
 ## 📋 Skills
+
 [![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white&style=plastic)]()
 [![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white&style=plastic)]()
 [![JS](https://img.shields.io/badge/JavaScript-5E5C5C?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic)]()
