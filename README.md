@@ -4,7 +4,7 @@
 
 Me chamo Carlos Araújo, tenho 22 anos, sou desenvolvedor **front-end** em constante aprendizado.
 
-Meu contato com tecnologia veio através dos jogos, porém sempre tive curiosidade em relação ao mundo da programação e como tudo aquilo funcionava, decidi então mergulhar de cabeça no desenvolvimento front-end. 
+Meu contato com tecnologia veio através dos jogos, sempre tive curiosidade em relação ao mundo da programação e como tudo aquilo funcionava, decidi então mergulhar de cabeça no desenvolvimento front-end.
 
 ## 📋 Skills
 
