@@ -2,9 +2,11 @@
 
 <img align="right" src="https://i.imgur.com/KKOhgiT.png" width="300"/>
 
-Me chamo Carlos Araújo, tenho 22 anos, sou desenvolvedor **front-end** em constante aprendizado.
+Me chamo Carlos Araújo, sou desenvolvedor **full-stack** em formação pela Labenu.
 
-Meu contato com tecnologia veio através dos jogos, sempre tive curiosidade em relação ao mundo da programação e como tudo aquilo funcionava, decidi então mergulhar de cabeça no desenvolvimento front-end.
+Meu contato com tecnologia veio através dos jogos, sempre tive curiosidade em saber como tudo aquilo funcionava, decidi então mergulhar de cabeça no mundo da programação, criando projetos paralelos o tempo todo e validando conceitos ou apenas ideias idiotas.
+
+Meu principal objetivo é capacitar as pessoas e construir um mundo melhor compartilhando conhecimento com as comunidades de tecnologia.
 
 ## 📋 Skills
 
