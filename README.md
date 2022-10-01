@@ -4,7 +4,7 @@
 
 Me chamo Carlos Araújo, sou desenvolvedor **full-stack** em formação pela Labenu.
 
-Meu contato com tecnologia veio através dos jogos, sempre tive curiosidade em saber como tudo aquilo funcionava, decidi então mergulhar de cabeça no mundo da programação criando projetos paralelos o tempo todo e validando novos conceitos.
+Meu contato com tecnologia veio através dos jogos, sempre tive curiosidade em saber como tudo aquilo funcionava, decidi então mergulhar de cabeça no mundo da programação criando projetos paralelos para validar novos conceitos.
 
 Meu principal objetivo é capacitar as pessoas e construir um mundo melhor compartilhando conhecimento com as comunidades de tecnologia.
 
