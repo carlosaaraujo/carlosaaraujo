@@ -18,7 +18,6 @@ Meu principal objetivo é capacitar as pessoas e construir um mundo melhor compa
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&style=plastic)]()
 [![Chakra UI](https://img.shields.io/badge/Chakra%20UI-9cf?style=for-the-badge&logo=chakra-ui&logoColor=white&style=plastic)]()
 [![MUI](https://img.shields.io/badge/MUI-informational?style=for-the-badge&logo=MUI&logoColor=white&style=plastic)]()
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=white&style=plastic)]()
 [![Styled-Components](https://img.shields.io/badge/Styled%20Components-E10098?style=for-the-badge&logo=styled-components&logoColor=white&style=plastic)]()
 
 ## 📫 Contatos
