@@ -6,10 +6,7 @@ Me chamo Carlos Araújo, sou desenvolvedor **full-stack** em formação pela Lab
 
 Meu contato com tecnologia veio através dos jogos, sempre tive curiosidade em saber como tudo aquilo funcionava, decidi então mergulhar de cabeça no mundo da programação criando projetos paralelos para validar novos conceitos.
 
-Meu principal objetivo é capacitar as pessoas e construir um mundo melhor compartilhando conhecimento com as comunidades de tecnologia.
-
-## 📋 Skills
-
+## 📋 Minha Stack
 [![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white&style=plastic)]()
 [![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white&style=plastic)]()
 [![JS](https://img.shields.io/badge/JavaScript-5E5C5C?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic)]()
@@ -22,7 +19,6 @@ Meu principal objetivo é capacitar as pessoas e construir um mundo melhor compa
 
 ## 📫 Contatos
 
-[![Twitter Badge](https://img.shields.io/badge/@carlosaaraujo-2D425E?style=flat&labelColor=2D425E&logo=twitter&logoColor=white&link=https://twitter.com/c4rlosaaraujo)](https://twitter.com/c4rlosaaraujo)
 [![Linkedin Badge](https://img.shields.io/badge/Carlos%20Araújo-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosaaraujo/)](https://www.linkedin.com/in/carlosaaraujo/)
 
 ![carlosaaraujo github stats](https://github-readme-stats.vercel.app/api?username=carlosaaraujo&hide=[%22issues%22]&show_icons=true)
