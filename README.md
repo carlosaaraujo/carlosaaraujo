@@ -2,23 +2,17 @@
 
 <img align="right" src="https://i.imgur.com/KKOhgiT.png" width="300"/>
 
-Me chamo Carlos Araújo, sou desenvolvedor **full-stack** em formação pela Labenu.
+Me chamo Carlos Araújo, tenho 23 anos, moro em Recife-PE, atualmente estou cursando Análise e Desenvolvimento de Sistemas e sou formado em desenvolvimento **Full-Stack**.
 
 Meu contato com tecnologia veio através dos jogos, sempre tive curiosidade em saber como tudo aquilo funcionava, decidi então mergulhar de cabeça no mundo da programação criando projetos paralelos para validar novos conceitos.
 
-## 📋 Minha Stack
-[![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white&style=plastic)]()
-[![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white&style=plastic)]()
-[![JS](https://img.shields.io/badge/JavaScript-5E5C5C?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic)]()
-[![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=plastic)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white&style=plastic)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&style=plastic)]()
-[![Chakra UI](https://img.shields.io/badge/Chakra%20UI-9cf?style=for-the-badge&logo=chakra-ui&logoColor=white&style=plastic)]()
-[![MUI](https://img.shields.io/badge/MUI-informational?style=for-the-badge&logo=MUI&logoColor=white&style=plastic)]()
-[![Styled-Components](https://img.shields.io/badge/Styled%20Components-E10098?style=for-the-badge&logo=styled-components&logoColor=white&style=plastic)]()
-
 ## 📫 Contatos
 
-[![Linkedin Badge](https://img.shields.io/badge/Carlos%20Araújo-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosaaraujo/)](https://www.linkedin.com/in/carlosaaraujo/)
+[![Linkedin: carlosaaraujo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosaaraujo/)
+[![E-mail carlosaaraujo](https://img.shields.io/badge/carlosaaraujopc@gmail.com-100000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosaaraujopc@gmail.com)
 
-![carlosaaraujo github stats](https://github-readme-stats.vercel.app/api?username=carlosaaraujo&hide=[%22issues%22]&show_icons=true)
+## 🔥 Minha Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
