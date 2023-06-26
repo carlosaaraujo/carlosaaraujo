@@ -1,10 +1,11 @@
-# 🤙 &nbsp;Sobre mim
+# 👋 &nbsp;Sobre mim
 
-Me chamo Carlos Araújo, tenho 23 anos, moro em Recife-PE, atualmente estou cursando Análise e Desenvolvimento de Sistemas e sou formado em desenvolvimento **Full-Stack**. Meu contato com tecnologia veio através dos jogos, sempre tive curiosidade em saber como tudo aquilo funcionava, decidi então mergulhar de cabeça no mundo da programação criando projetos paralelos para validar novos conceitos.
+Graduando em Análise e Desenvolvimento de Sistemas, sou formado em desenvolvimento **Full-Stack**. Meu contato com tecnologia veio através dos jogos, sempre tive curiosidade em saber como tudo aquilo funcionava, decidi então mergulhar de cabeça no mundo da programação criando projetos paralelos para validar novos conceitos.
 
 # 🛠 &nbsp;Caixa de ferramentas
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -28,7 +29,7 @@ Me chamo Carlos Araújo, tenho 23 anos, moro em Recife-PE, atualmente estou curs
 </a>
 </p>
 
-# 🤙 &nbsp;Minhas Redes
+# 📫 &nbsp;Minhas Redes
 
 <p align="center">
 <a href="https://www.twitter.com/c4rlosaaraujo"><img src="https://img.shields.io/badge/-@carlosaaraujo-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
