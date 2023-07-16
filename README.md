@@ -1,6 +1,6 @@
 # 👋 &nbsp;Sobre mim
 
-Graduando em Análise e Desenvolvimento de Sistemas, sou formado em desenvolvimento **Full-Stack**. Meu contato com tecnologia veio através dos jogos, sempre tive curiosidade em saber como tudo aquilo funcionava, decidi então mergulhar de cabeça no mundo da programação criando projetos paralelos para validar novos conceitos.
+Sou graduando em Análise e Desenvolvimento de Sistemas e formado em desenvolvimento **Full-Stack**. Meu interesse por tecnologia surgiu através dos jogos, pois sempre tive curiosidade em entender como tudo funcionava. Decidi, então, mergulhar de cabeça no mundo da programação e comecei a criar projetos paralelos para validar novos conceitos. Estou sempre buscando aprender mais e aprimorar minhas habilidades.
 
 # 🛠 &nbsp;Caixa de ferramentas
 
