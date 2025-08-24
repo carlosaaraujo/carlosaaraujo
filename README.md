@@ -4,7 +4,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, com **3 anos de exper
 
 Meu interesse por tecnologia nasceu da minha **paixão por jogos**, que despertaram em mim a curiosidade de entender o que acontece *"por trás das telas"*. Com o tempo, essa curiosidade evoluiu e se transformou em uma verdadeira **paixão pelo desenvolvimento de software**.
 
-Atualmente, continuo aprimorando minhas habilidades por meio de **cursos**, **eventos** e estou iniciando uma **pós-graduação em Engenharia de Software**. Acredito na **aprendizagem contínua** como chave para evoluir sempre.
+Atualmente, continuo aprimorando minhas habilidades por meio de **cursos**, **eventos** e **pós-graduação em Engenharia de Software**. Acredito na **aprendizagem contínua** como chave para evoluir sempre.
 
 # 🛠 &nbsp;Caixa de ferramentas
 
