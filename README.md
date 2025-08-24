@@ -1,6 +1,10 @@
 # 👋 &nbsp;Sobre mim
 
-Sou graduando em Análise e Desenvolvimento de Sistemas e formado em desenvolvimento **Full-Stack**. Meu interesse por tecnologia surgiu através dos jogos, pois sempre tive curiosidade em entender como tudo funcionava. Decidi, então, mergulhar de cabeça no mundo da programação e comecei a criar projetos paralelos para validar novos conceitos. Estou sempre buscando aprender mais e aprimorar minhas habilidades.
+Sou formado em **Análise e Desenvolvimento de Sistemas**, com **3 anos de experiência** em desenvolvimento de sistemas. Ao longo da minha trajetória, atuei no desenvolvimento de plataformas para **empresas nacionais e internacionais**, sempre focado em entregar **soluções eficientes e escaláveis**.
+
+Meu interesse por tecnologia nasceu da minha **paixão por jogos**, que despertaram em mim a curiosidade de entender o que acontece *"por trás das telas"*. Com o tempo, essa curiosidade evoluiu e se transformou em uma verdadeira **paixão pelo desenvolvimento de software**.
+
+Atualmente, continuo aprimorando minhas habilidades por meio de **cursos**, **eventos** e estou iniciando uma **pós-graduação em Engenharia de Software**. Acredito na **aprendizagem contínua** como chave para evoluir sempre.
 
 # 🛠 &nbsp;Caixa de ferramentas
 
