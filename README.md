@@ -12,7 +12,7 @@ Atualmente, continuo aprimorando minhas habilidades por meio de **cursos**, **ev
   </a>
 </p>
 
-# ⚙️ &nbsp;Meu Github
+## ⚙️ &nbsp;Meu Github
 <p align="center">
 <a href="https://github.com/carlosaaraujo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosaaraujo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -20,8 +20,7 @@ Atualmente, continuo aprimorando minhas habilidades por meio de **cursos**, **ev
 </a>
 </p>
 
-# 📫 &nbsp;Minhas Redes
-
+## 📫 &nbsp;Minhas Redes
 <p align="center">
 <a href="https://www.twitter.com/c4rlosaaraujo"><img src="https://img.shields.io/badge/-@carlosaaraujo-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/carlosaaraujo"><img src="https://img.shields.io/badge/-Carlos%20Araújo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
