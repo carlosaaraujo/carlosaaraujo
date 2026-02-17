@@ -22,6 +22,5 @@ Atualmente, continuo aprimorando minhas habilidades por meio de **cursos**, **ev
 
 ## 📫 &nbsp;Minhas Redes
 <p align="center">
-<a href="https://www.twitter.com/c4rlosaaraujo"><img src="https://img.shields.io/badge/-@carlosaaraujo-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/carlosaaraujo"><img src="https://img.shields.io/badge/-Carlos%20Araújo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:carlosaaraujopc@gmail.com"><img src="https://img.shields.io/badge/-carlosaaraujopc@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
